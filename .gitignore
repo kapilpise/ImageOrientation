@@ -1,0 +1,5 @@
+bin/*
+gen/*
+proguard-project.txt
+project.properties
+.settings/org.eclipse.jdt.core.prefs
